@@ -3,12 +3,9 @@
 table,td,tr,th{
 	border:1px solid;
 	text-align:center;
-	margin:auto;
+/* 	margin:auto; */
 	
 }
 table{
-	margin:20px auto;
-}
-ul{
-	margin:20px;
+	margin:20px 0px;
 }
